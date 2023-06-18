@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FaraidunHussain
+- 👀 I’m interested in website design and constrution - HTML CSS JAVASCRIPT/JQUERY.i use adobe illustrator in main way and proffessionals.
+- 🌱 I’m currently learning to be above intermediate develover.
